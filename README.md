@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsagar1&label=Profile%20views&color=0e75b6&style=flat" alt="krsagar1" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Walmart **Seller support**
 
-- 🌱 I’m currently learning **css,sql,javascript**
+- 🌱 I’m currently learning **Html,css,sql, Python**
 
 - 📫 How to reach me **deyjotu@gmail.com**
 
